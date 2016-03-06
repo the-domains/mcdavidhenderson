@@ -1,0 +1,28 @@
+name: mcdavidhenderson
+favicon: null
+layout_spectrum: 0.09262983244843781
+typography_spectrum: 0.6589940276462585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5915461294353008
+  lightness: 0.348022754304111
+  saturation: 0.5793623148929328
+  rhythmicContrast: 0.7598878261633217
+purpose: []
