@@ -1,6 +1,6 @@
 name: mcdavidhenderson
 favicon: null
-layout_spectrum: 0.09262983244843781
+layout_spectrum: 1
 typography_spectrum: 0.6589940276462585
 title: mcdavid henderson work
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5915461294353008
-  lightness: 0.348022754304111
-  saturation: 0.5793623148929328
-  rhythmicContrast: 0.7598878261633217
+  brandStrength: 0.9375
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
